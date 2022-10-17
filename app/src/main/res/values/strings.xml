@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="send">отправить</string>
+    <string name="text123">Введите текст…</string>
+    <string name="button">button</string>
+
+</resources>
